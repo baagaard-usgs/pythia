@@ -1,8 +1,9 @@
 See <https://github.com/geodynamics/pythia/commits/master> for the complete log of changes made to Pythia/Pyre.
 
-## Version 1.3.0 (2026-06-07)
+## Version 1.3.0 (2026-08-17)
 
 * Added pygments lexer `pyrejournal' for syntax highlighting of journal output.
+* Added configure option for pip install without build isolation (`--without-build-isolation`).
 
 ## Version 1.2.0 (2026-05-30)
 
